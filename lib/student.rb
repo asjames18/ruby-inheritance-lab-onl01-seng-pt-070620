@@ -7,7 +7,7 @@ class Student
     @knowledge = []
   end
 
-  def learning
+  def learn
 
   end
 
