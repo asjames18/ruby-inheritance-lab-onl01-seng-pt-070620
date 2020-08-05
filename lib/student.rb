@@ -8,7 +8,10 @@ class Student
   end
 
   def learn(string)
-    @knowledge << string 
+    @knowledge << string
+  end
+
+  def knowledge
 
   end
 
