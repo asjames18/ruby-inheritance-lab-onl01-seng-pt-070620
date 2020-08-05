@@ -7,7 +7,7 @@ class Student
     @knowledge = []
   end
 
-  def learn
+  def learn(string)
 
   end
 
