@@ -12,6 +12,7 @@ class Student
   end
 
   def knowledge(array)
+    
 
   end
 
