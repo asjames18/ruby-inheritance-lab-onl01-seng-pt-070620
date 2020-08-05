@@ -8,6 +8,7 @@ class Student
   end
 
   def learn(string)
+    @knowledge
 
   end
 
