@@ -11,7 +11,7 @@ class Student
     @knowledge << string
   end
 
-  def knowledge
+  def knowledge(array)
 
   end
 
